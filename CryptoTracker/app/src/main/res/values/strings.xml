@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Crypto Tracker Pro</string>
+
+    <string name="bitcoin">Bitcoin</string>
+    <string name="price">Price</string>
+    <string name="symbol">BTC</string>
+
+    <string name="loading">Loading...</string>
+</resources>
